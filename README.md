@@ -1,2 +1,2 @@
-# Yzozikang.github.io
+# Yaozikang.github.io
 my blog
